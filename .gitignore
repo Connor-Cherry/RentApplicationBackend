@@ -8,4 +8,4 @@ coverage
 .idea//tasks.xml
 .idea/dictionairies/*.xml
 .idea/typescript-compiler.xml
-./dbconfig.json
+!/dbconfig.json
